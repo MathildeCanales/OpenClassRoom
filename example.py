@@ -9,3 +9,5 @@ def do_something(budget):
 nombre = 15
 nombre = do_something(nombre)
 print(nombre)
+
+print("prout")
