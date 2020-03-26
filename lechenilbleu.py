@@ -27,3 +27,7 @@ def nouveau_chien(lechenilbleu):
     else : 
         disponibilite(lechenilbleu) 
 
+afficher_chiens(lechenilbleu)
+nouveau_chien(lechenilbleu)
+afficher_chiens(lechenilbleu)
+nouveau_chien(lechenilbleu)
